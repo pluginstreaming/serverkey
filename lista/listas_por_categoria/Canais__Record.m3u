@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244071.m3u8
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP UHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244073.m3u8
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244075.m3u8
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP H265" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP H265
+http://chanelvs.click:80/live/6042289/d189Q3172C/244076.m3u8
+#EXTINF:-1 tvg-id="Recordsp.br" tvg-name="RecordTV SP SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SP SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244078.m3u8
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RecordTV RJ FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RJ FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/528661.m3u8
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RecordTV RJ HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RJ HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/528662.m3u8
+#EXTINF:-1 tvg-id="Recordrj.br" tvg-name="RecordTV RJ SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RJ SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/528663.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV INTERIOR SP FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV INTERIOR SP FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244080.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV INTERIOR SP HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV INTERIOR SP HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244081.m3u8
+#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="RecordTV DF - Brasilia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV DF - Brasilia HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244085.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="RecordTV Bauru HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Bauru HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/384736.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="RecordTV Bauru SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Bauru SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/384737.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV RIO PRETO FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RIO PRETO FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244093.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV RIO PRETO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RIO PRETO HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244094.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV RIO PRETO SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RIO PRETO SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244095.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV RJ INTERIOR FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RJ INTERIOR FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244096.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV RJ INTERIOR HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RJ INTERIOR HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244097.m3u8
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RecordTV MINAS FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV MINAS FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244098.m3u8
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RecordTV MINAS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV MINAS HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244099.m3u8
+#EXTINF:-1 tvg-id="Recordmg.br" tvg-name="RecordTV MINAS SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV MINAS SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244101.m3u8
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RecordTV RS FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RS FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244107.m3u8
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RecordTV RS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RS HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244109.m3u8
+#EXTINF:-1 tvg-id="Recordrs.br" tvg-name="RecordTV RS SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RS SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244110.m3u8
+#EXTINF:-1 tvg-id="Recordsc.br" tvg-name="Record NDTV Joinville HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",Record NDTV Joinville HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244115.m3u8
+#EXTINF:-1 tvg-id="Recordpa.br" tvg-name="RecordTV Belém SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Belém SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244120.m3u8
+#EXTINF:-1 tvg-id="Recordpa.br" tvg-name="RecordTV MANAUS HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV MANAUS HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244122.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV RIC FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RIC FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244126.m3u8
+#EXTINF:-1 tvg-id="Recordpr.br" tvg-name="RecordTV RIC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RIC HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244124.m3u8
+#EXTINF:-1 tvg-id="Recordpr.br" tvg-name="RecordTV RIC SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RIC SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244125.m3u8
+#EXTINF:-1 tvg-id="Recordsc.br" tvg-name="RecordTV NDTV SC HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV NDTV SC HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244127.m3u8
+#EXTINF:-1 tvg-id="Recordsc.br" tvg-name="RecordTV NDTV BLUMENAU HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV NDTV BLUMENAU HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244128.m3u8
+#EXTINF:-1 tvg-id="Recordpa.br" tvg-name="RecordTV BELEM DO PARÁ FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV BELEM DO PARÁ FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244129.m3u8
+#EXTINF:-1 tvg-id="Recordpa.br" tvg-name="RecordTV BELEM DO PARÁ HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV BELEM DO PARÁ HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244130.m3u8
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="RecordTV CABRALIA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV CABRALIA FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244133.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV CABRALIA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV CABRALIA HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244134.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RecordTV Cidade " tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Cidade 
+http://chanelvs.click:80/live/6042289/d189Q3172C/380421.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV Campinas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Campinas FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/367118.m3u8
+#EXTINF:-1 tvg-id="Recordgo.br" tvg-name="RecordTV GO HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV GO HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244137.m3u8
+#EXTINF:-1 tvg-id="Recordba.br" tvg-name="RecordTV ITAPOAN FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV ITAPOAN FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244140.m3u8
+#EXTINF:-1 tvg-id="Recordba.br" tvg-name="RecordTV ITAPOAN HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV ITAPOAN HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244141.m3u8
+#EXTINF:-1 tvg-id="Recordlitoralvale.br" tvg-name="RecordTV LITORAL VALE DO PARNAÍBA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV LITORAL VALE DO PARNAÍBA FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244142.m3u8
+#EXTINF:-1 tvg-id="Recordlitoralvale.br" tvg-name="RecordTV LITORAL VALE DO PARNAÍBA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV LITORAL VALE DO PARNAÍBA HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244143.m3u8
+#EXTINF:-1 tvg-id="Recordsc.br" tvg-name="RecordTV NDTV  FLORIPA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV NDTV  FLORIPA HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244144.m3u8
+#EXTINF:-1 tvg-id="Recordparanaiba.br" tvg-name="RecordTV PARANAÍBA DE UBERLÂNDIA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV PARANAÍBA DE UBERLÂNDIA FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244145.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTV PARANAÍBA DE UBERLÂNDIA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV PARANAÍBA DE UBERLÂNDIA HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244146.m3u8
+#EXTINF:-1 tvg-id="Recordpaulista.br" tvg-name="RecordTV PAULISTA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV PAULISTA FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244147.m3u8
+#EXTINF:-1 tvg-id="Recordpaulista.br" tvg-name="RecordTV PAULISTA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV PAULISTA HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244148.m3u8
+#EXTINF:-1 tvg-id="Recordro.br" tvg-name="RecordTV SIC TV RONDÔNIA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SIC TV RONDÔNIA FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244149.m3u8
+#EXTINF:-1 tvg-id="Recordro.br" tvg-name="RecordTV SIC TV RONDÔNIA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV SIC TV RONDÔNIA HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244150.m3u8
+#EXTINF:-1 tvg-id="Recordmt.br" tvg-name="RecordTV VILA REAL FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV VILA REAL FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244154.m3u8
+#EXTINF:-1 tvg-id="Recordmt.br" tvg-name="RecordTV VILA REAL HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV VILA REAL HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244155.m3u8
+#EXTINF:-1 tvg-id="Recordparanaiba.br" tvg-name="RecordTV UBERLANDIA FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV UBERLANDIA FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/244156.m3u8
+#EXTINF:-1 tvg-id="Recordrn.br" tvg-name="RecordTV RECIFE" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV RECIFE
+http://chanelvs.click:80/live/6042289/d189Q3172C/393794.m3u8
+#EXTINF:-1 tvg-id="Recordrn.br" tvg-name="RecordTV Tropical FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Tropical FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/395392.m3u8
+#EXTINF:-1 tvg-id="Bandce.br" tvg-name="RecordTv Thathi Campinas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTv Thathi Campinas FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/372641.m3u8
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="RecordTv Thathi Campinas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTv Thathi Campinas HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/372642.m3u8
+#EXTINF:-1 tvg-id="Record - RIC TV OESTE" tvg-name="RecordTv Thathi Campinas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTv Thathi Campinas SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/372643.m3u8
+#EXTINF:-1 tvg-id="Recordse.br" tvg-name="RecordTV Sergipe (Atalaia) HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Sergipe (Atalaia) HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/551756.m3u8
+#EXTINF:-1 tvg-id="Recordba.br" tvg-name="RecordTV BAHIA HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV BAHIA HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/558027.m3u8
+#EXTINF:-1 tvg-id="Recordes.br" tvg-name="RecordTV Vitoria HD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Vitoria HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/558583.m3u8
+#EXTINF:-1 tvg-id="Recordes.br" tvg-name="RecordTV Vitoria SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV Vitoria SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/558584.m3u8
+#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="RecordTV DF - Brasilia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV DF - Brasilia FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/564012.m3u8
+#EXTINF:-1 tvg-id="Recorddf.br" tvg-name="RecordTV DF - Brasilia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/RECORDTV.png" group-title="Canais | Record",RecordTV DF - Brasilia SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/564013.m3u8

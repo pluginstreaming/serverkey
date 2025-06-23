@@ -1,0 +1,99 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Globo Pernambuco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Pernambuco HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/538100.m3u8
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2437.m3u8
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2436.m3u8
+#EXTINF:-1 tvg-id="Intertvrn.br" tvg-name="Globo Inter TV Cabugi SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Inter TV Cabugi SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2435.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2428.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2427.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste HD²" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste HD²
+http://chanelvs.click:80/live/6042289/d189Q3172C/362062.m3u8
+#EXTINF:-1 tvg-id="Globope.br" tvg-name="Globo Nordeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo Nordeste SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2426.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo TV Asa Branca FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/166720.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo TV Asa Branca HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/166721.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo TV Asa Branca H265 " tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca H265 
+http://chanelvs.click:80/live/6042289/d189Q3172C/362729.m3u8
+#EXTINF:-1 tvg-id="Boxkids.br" tvg-name="Globo TV Asa Branca SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Asa Branca SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/166722.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2425.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2424.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia H265
+http://chanelvs.click:80/live/6042289/d189Q3172C/362061.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Bahia SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Bahia SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2423.m3u8
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco FHD " tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco FHD 
+http://chanelvs.click:80/live/6042289/d189Q3172C/286195.m3u8
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/286196.m3u8
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="GLOBO TV Cabo branco H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",GLOBO TV Cabo branco H265
+http://chanelvs.click:80/live/6042289/d189Q3172C/362896.m3u8
+#EXTINF:-1 tvg-id="Globopb.br" tvg-name="Globo TV Cabo branco SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Cabo branco SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/286197.m3u8
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/215610.m3u8
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/215611.m3u8
+#EXTINF:-1 tvg-id="Globopi.br" tvg-name="Globo TV Clube Teresina SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Clube Teresina SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/215612.m3u8
+#EXTINF:-1 tvg-id="Tvdiarioce.br" tvg-name="Globo TV Diario do Nordeste de Fortaleza CE" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Diario do Nordeste de Fortaleza CE
+http://chanelvs.click:80/live/6042289/d189Q3172C/530124.m3u8
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Diario FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/171.m3u8
+#EXTINF:-1 tvg-id="Tvdiariosp.br" tvg-name="Globo TV Diario HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Diario HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/170.m3u8
+#EXTINF:-1 tvg-id="Globoal.br" tvg-name="Globo TV Gazeta Alagoas FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2440.m3u8
+#EXTINF:-1 tvg-id="Globoal.br" tvg-name="Globo TV Gazeta Alagoas HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2439.m3u8
+#EXTINF:-1 tvg-id="Globoal.br" tvg-name="Globo TV Gazeta Alagoas SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Gazeta Alagoas SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2438.m3u8
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2446.m3u8
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2445.m3u8
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Cocais SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Cocais SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2444.m3u8
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/518709.m3u8
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/518710.m3u8
+#EXTINF:-1 tvg-id="Globoma.br" tvg-name="Globo TV Mirante Sao Luis SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Mirante Sao Luis SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/518711.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Santa Cruz FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Santa Cruz FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/208574.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Santa Cruz HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Santa Cruz HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/208575.m3u8
+#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2443.m3u8
+#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2442.m3u8
+#EXTINF:-1 tvg-id="Globose.br" tvg-name="Globo TV Sergipe SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sergipe SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2441.m3u8
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo TV Subae FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/390951.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Subae  HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae  HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2314.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Subae SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Subae SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2315.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2431.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2430.m3u8
+#EXTINF:-1 tvg-id="Globoba.br" tvg-name="Globo TV Sudoeste SD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Sudoeste SD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2429.m3u8
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="Globo TV Verdes Mares FHD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares FHD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2434.m3u8
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="Globo TV Verdes Mares HD" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares HD
+http://chanelvs.click:80/live/6042289/d189Q3172C/2433.m3u8
+#EXTINF:-1 tvg-id="Globoce.br" tvg-name="Globo TV Verdes Mares Fortaleza H265" tvg-logo="http://beststorage4you.com:80/logoscanais/GLOBO.png" group-title="Canais | Globo Nordeste",Globo TV Verdes Mares Fortaleza H265
+http://chanelvs.click:80/live/6042289/d189Q3172C/362064.m3u8
