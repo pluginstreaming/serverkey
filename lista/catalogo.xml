@@ -7,898 +7,898 @@
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _  Abertos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Canais4K.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _  Abertos.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Canais4K.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _  Globo Sul.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisAbertos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _  Globo Sul.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisAbertos.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _  Religiosos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisAdultos+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _  Religiosos.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisAdultos+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _  Variedades.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisAdultos+18LGBT.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _  Variedades.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisAdultos+18LGBT.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ 4K.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisAmazonPrime.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ 4K.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisAmazonPrime.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Adultos +18 LGBT.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisBand.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Adultos +18 LGBT.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisBand.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Adultos +18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisCampeonatos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Adultos +18.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisCampeonatos.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Amazon Prime.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisCineSky.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Amazon Prime.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisCineSky.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Band.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisDcComics24Horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Band.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisDcComics24Horas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Campeonatos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisDesenhos24horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Campeonatos.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisDesenhos24horas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Cine Sky.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisDiscovery.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Cine Sky.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisDiscovery.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Dc Comics 24 Horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisDisneySports.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Dc Comics 24 Horas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisDisneySports.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Desenhos 24 horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisDocumentarios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Desenhos 24 horas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisDocumentarios.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Discovery.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisESPN.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Discovery.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisESPN.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Disney Sports.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisEsportes.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Disney Sports.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisEsportes.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Documentarios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisFilmes&Series.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Documentarios.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisFilmes&Series.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ ESPN.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisFilmes24horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ ESPN.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisFilmes24horas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Esportes.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisFrança.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Esportes.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisFrança.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Filmes & Series.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisGloboCentro-Oeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Filmes & Series.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisGloboCentro-Oeste.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Filmes 24 horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisGloboNordeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Filmes 24 horas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisGloboNordeste.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ França.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisGloboNorte.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ França.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisGloboNorte.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Globo Centro-Oeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisGloboSudeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Globo Centro-Oeste.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisGloboSudeste.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Globo Nordeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisGloboSul.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Globo Nordeste.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisGloboSul.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Globo Norte.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisHBO.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Globo Norte.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisHBO.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Globo Sudeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisHBOMAX.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Globo Sudeste.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisHBOMAX.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ HBO MAX.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisInfantil.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ HBO MAX.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisInfantil.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ HBO.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisItalia.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ HBO.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisItalia.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Infantil.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisJogosdehoje.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Infantil.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisJogosdehoje.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Italia.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisLatinos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Italia.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisLatinos.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Jogos de hoje.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisLegendados.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Jogos de hoje.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisLegendados.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Latinos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisMarvel24Horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Latinos.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisMarvel24Horas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Legendados.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisNBALeaguePass.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Legendados.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisNBALeaguePass.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Marvel 24 Horas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisNFLGamepass.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Marvel 24 Horas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisNFLGamepass.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ NBA League Pass.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisNoticias.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ NBA League Pass.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisNoticias.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ NFL Gamepass.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisParamount+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ NFL Gamepass.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisParamount+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Noticias.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisPay-per-view.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Noticias.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisPay-per-view.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Paramount +.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisPortugal.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Paramount +.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisPortugal.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Pay-per-view.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisPremiere.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Pay-per-view.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisPremiere.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Portugal.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisReality.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Portugal.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisReality.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Premiere.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisRecord.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Premiere.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisRecord.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Reality.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisReligiosos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Reality.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisReligiosos.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Record.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisSBT.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Record.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisSBT.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ SBT.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisShows24H.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ SBT.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisShows24H.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Shows 24H.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisSporTV.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Shows 24H.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisSporTV.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ SporTV.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisSportWorld.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ SporTV.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisSportWorld.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Sport World.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisTelecine.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Sport World.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisTelecine.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Telecine.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisUnitedStates.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Telecine.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisUnitedStates.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ United States.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisUruguay.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ United States.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisUruguay.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Canais _ Uruguay.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]CanaisVariedades.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Canais _ Uruguay.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisVariedades.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _  DC Comics.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Filmes007Coleção.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _  DC Comics.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Filmes007Coleção.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ 007 Coleção.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Filmes4K.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ 007 Coleção.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Filmes4K.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ 4K.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultos+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ 4K.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultos+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Adultos +18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosGay+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Adultos +18.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosGay+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Adultos Gay +18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosHentai+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Adultos Gay +18.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosHentai+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Adultos Hentai +18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosLesb+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Adultos Hentai +18.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosLesb+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Adultos Lesb +18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosTrans+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Adultos Lesb +18.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosTrans+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Adultos Trans +18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAnimação.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Adultos Trans +18.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAnimação.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Animação.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAnime.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Animação.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAnime.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Anime.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAppleTV+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Anime.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAppleTV+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Apple TV+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAventura.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Apple TV+.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAventura.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Aventura.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAção.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Aventura.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAção.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Ação.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesBrasilParalelo.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Ação.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesBrasilParalelo.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Brasil Paralelo.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesCinema.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Brasil Paralelo.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesCinema.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Cinema.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesComedia.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Cinema.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesComedia.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Comedia.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesCopaDoMundo2022.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Comedia.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesCopaDoMundo2022.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Copa Do Mundo 2022.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesCrime.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Copa Do Mundo 2022.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesCrime.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Crime.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesDCComics.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Crime.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesDCComics.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Despertar Uma Nova Consciência.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesDespertarUmaNovaConsciência.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Despertar Uma Nova Consciência.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesDespertarUmaNovaConsciência.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Disney +.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesDisney+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Disney +.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesDisney+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Documentarios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesDocumentarios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Documentarios.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesDocumentarios.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Drama.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesDrama.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Drama.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesDrama.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Fantasia.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesFantasia.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Fantasia.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesFantasia.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Faroeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesFaroeste.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Faroeste.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesFaroeste.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Ficção.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesFicção.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Ficção.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesFicção.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ GloboPlay.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesGloboPlay.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ GloboPlay.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesGloboPlay.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Guerra.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesGuerra.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Guerra.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesGuerra.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ HBO Max.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesHBOMax.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ HBO Max.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesHBOMax.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Infantil.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesInfantil.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Infantil.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesInfantil.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Lançamentos 2023.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesLançamentos2023.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Lançamentos 2023.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesLançamentos2023.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Lançamentos 2024.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesLançamentos2024.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Lançamentos 2024.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesLançamentos2024.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Lançamentos 2025.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesLançamentos2025.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Lançamentos 2025.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesLançamentos2025.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Legendados.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesLegendados.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Legendados.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesLegendados.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Marvel.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesMarvel.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Marvel.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesMarvel.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Nacional.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesNacional.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Nacional.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesNacional.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Netflix.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesNetflix.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Netflix.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesNetflix.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Paramount +.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesParamount+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Paramount +.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesParamount+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Prime Video.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesPrimeVideo.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Prime Video.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesPrimeVideo.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Religioso.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesReligioso.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Religioso.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesReligioso.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Romance.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesRomance.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Romance.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesRomance.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Sons Para Dormir.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesSonsParaDormir.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Sons Para Dormir.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesSonsParaDormir.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Star +.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesStar+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Star +.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesStar+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Suspense.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesSuspense.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Suspense.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesSuspense.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Filmes _ Terror.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesTerror.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Filmes _ Terror.xml</externallink>
- <fanart></fanart>
- <info>Listas iptv</info>
-</channel>
-<channel>
- <name>[COLOR white][B]Shows Rock in Rio 2022.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Shows Rock in Rio 2022.xml</externallink>
- <fanart></fanart>
- <info>Listas iptv</info>
-</channel>
-<channel>
- <name>[COLOR white][B]Shows Rock in Rio 2024.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Shows Rock in Rio 2024.xml</externallink>
- <fanart></fanart>
- <info>Listas iptv</info>
-</channel>
-<channel>
- <name>[COLOR white][B]Shows _ Gospel.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Shows _ Gospel.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesTerror.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
  <name>[COLOR white][B]Shows.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Shows.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Shows.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]ShowsGospel.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/ShowsGospel.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]ShowsRockinRio2022.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/ShowsRockinRio2022.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]ShowsRockinRio2024.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/ShowsRockinRio2024.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
  <name>[COLOR white][B]Stand Up Comedy.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Stand Up Comedy.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Stand Up Comedy.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Adultas +18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesAdultas+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Adultas +18.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesAdultas+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Animação.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesAnimação.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Animação.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesAnimação.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Animes.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesAnimes.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Animes.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesAnimes.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Apple TV.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesAppleTV.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Apple TV.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesAppleTV.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Brasil Paralelo.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesBrasilParalelo.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Brasil Paralelo.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesBrasilParalelo.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Crunchyroll.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesCrunchyroll.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Crunchyroll.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesCrunchyroll.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Cursos _ Aulas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesCursosAulas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Cursos _ Aulas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesCursosAulas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Desenhos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesDesenhos.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Desenhos.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesDesenhos.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Discovery+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesDiscovery+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Discovery+.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesDiscovery+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Disney +.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesDisney+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Disney +.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesDisney+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Diversas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesDiversas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Diversas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesDiversas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Documentarios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesDocumentarios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Documentarios.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesDocumentarios.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Dorama.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesDorama.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Dorama.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesDorama.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Globoplay.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesGloboplay.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Globoplay.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesGloboplay.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ HBO MAX.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesHBOMAX.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ HBO MAX.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesHBOMAX.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Legendadas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesLegendadas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Legendadas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesLegendadas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Lollapalooza Brasil 2025.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesLollapaloozaBrasil2025.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Lollapalooza Brasil 2025.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesLollapaloozaBrasil2025.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ National Geographic.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesNationalGeographic.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ National Geographic.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesNationalGeographic.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Netflix.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesNetflix.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Netflix.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesNetflix.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Novelas Mexicanas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesNovelas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Novelas Mexicanas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesNovelas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Novelas e Séries Turcas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesNovelasMexicanas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Novelas e Séries Turcas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesNovelasMexicanas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Novelas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesNovelaseSériesTurcas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Novelas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesNovelaseSériesTurcas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Paramount.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesParamount.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Paramount.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesParamount.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Prime Video.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesPrimeVideo.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Prime Video.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesPrimeVideo.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Programas De TV.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesProgramasDeTV.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Programas De TV.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesProgramasDeTV.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Reality Show.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesRealityShow.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Reality Show.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesRealityShow.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ ReelShort - Mobile.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesReelShort-Mobile.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ ReelShort - Mobile.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesReelShort-Mobile.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Shows.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesShows.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Shows.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesShows.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Star +.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesStar+.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Star +.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesStar+.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]Séries _ Treine em Casa - Aulas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SériesTreineemCasa-Aulas.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/listas_por_estilo/Séries _ Treine em Casa - Aulas.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SériesTreineemCasa-Aulas.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
