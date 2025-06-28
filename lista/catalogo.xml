@@ -8,7 +8,7 @@
 </channel>
 
 <channel>
- <name>[COLOR white][B]Canais.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Canais[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Canais.xml</externallink>
  <fanart></fanart>
@@ -16,7 +16,7 @@
 </channel>
 
 <channel>
- <name>[COLOR white][B]FilmesSeries.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Filmes e Series[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesSeries.xml</externallink>
  <fanart></fanart>
@@ -24,7 +24,7 @@
 </channel>
 
 <channel>
- <name>[COLOR white][B]Outros.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Outros[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Outros.xml</externallink>
  <fanart></fanart>
