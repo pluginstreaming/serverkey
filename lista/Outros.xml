@@ -1,0 +1,37 @@
+<channels>
+<channel>
+ <name>[COLOR white][B]AreadoCliente.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/AreadoCliente.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]Rádios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Rádios.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]Shows.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Shows.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]ShowsGospel.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/ShowsGospel.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]StandUpComedy.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/StandUpComedy.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+</channels>
