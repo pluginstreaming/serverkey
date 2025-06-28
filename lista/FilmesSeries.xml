@@ -2,7 +2,7 @@
 <channel>
  <name>[COLOR white][B]CanaisFilmeseSéries.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisFilmeseSéries.xml</externallink>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisFilmeseSeries.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
