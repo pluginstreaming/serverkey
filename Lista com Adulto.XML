@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<items>
-
-
-
-
-<item>
-<title>Bem Vindo ao Ao Add-on Clique aqui para ver canais </title>
-<link>http://chanelvs.click/get.php?username=6042289&password=d189Q3172C&type=m3u_plus&output=hls</link>
-<thumbnail>https://play-lh.googleusercontent.com/nBhqLeymG-_-QDRWiCK3YwYzkWjeP5y2j_jTDEag9hxQT2zigPcE8Nb3YppQDgJ-T18=w240-h480-rw|User-Agent=Mozilla/5.0</thumbnail>
-<fanart></fanart>
-<info></info>
-</item>
-
-</items>
+<channels>
+ <channel>
+ <name>>Bem Vindo ao Ao Add-on Clique aqui para ver canais</name>
+ <thumbnail>https://play-lh.googleusercontent.com/nBhqLeymG-_-QDRWiCK3YwYzkWjeP5y2j_jTDEag9hxQT2zigPcE8Nb3YppQDgJ-T18=w240-h480-rw|User-Agent=Mozilla/5.0</thumbnail>
+ <externallink>http://chanelvs.click/get.php?username=6042289&password=d189Q3172C&type=m3u_plus&output=hls</externallink>
+ <fanart>https://raw.githubusercontent.com/kodishmediacenter/omega/master/srv/filmes~1.png</fanart>
+ <info>Listas iptv</info>
+ </channel>
+ </channels>
