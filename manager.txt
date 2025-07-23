@@ -15,7 +15,23 @@
 </item>
 
 <item>
-<title></title>
+<title>Criar Api do Youtube na Sua Conta Google R$ 35,00</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png</thumbnail>
+<link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
+<fanart></fanart>
+<info>Filmes | Sons Para Dormir</info>
+</item>
+
+<item>
+<title>Criar Api do Twitch TV na Sua Conta da Twitch TV R$ 25,00 a 35,00</title>
+<thumbnail>https://img001.prntscr.com/file/img001/qoUsgbOLTu-IFEkR5mD1BQ.png</thumbnail>
+<link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
+<fanart></fanart>
+<info>Filmes | Sons Para Dormir</info>
+</item>
+
+<item>
+<title>.</title>
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
 <fanart></fanart>
