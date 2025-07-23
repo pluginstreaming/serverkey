@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>Criar conta Opensubtitle R$ 20</title>
+<thumbnail>https://blog.opensubtitles.com/app/uploads/OpenSubtitles.org_.png</thumbnail>
+<link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
+<fanart></fanart>
+<info>Criar Api do Twitch TV na Sua Conta da Twitch TV R$ 25,00 a 35,00</info>
+</item>
+
+<item>
 <title>.</title>
 <thumbnail></thumbnail>
 <link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
