@@ -1,0 +1,23 @@
+<item>
+<title>Edição de Video  R$ 30,00 </title>
+<thumbnail>https://images.ctfassets.net/63bmaubptoky/HTB_RPXFxWaTm_1Q7WEwy0ilSrtNl0zZY5oNmDf8OVs/b4ba7fc87baa62ca5b066b0c31c4b96b/melhores-editores-video-gratuitos-BR-Capterra-Header.png</thumbnail>
+<link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
+<fanart></fanart>
+<info>Filmes | Sons Para Dormir</info>
+</item>
+
+<item>
+<title>Criar Addon Simples R$ 45,00</title>
+<thumbnail>https://kodi.tv/images/default-addon.webp</thumbnail>
+<link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
+<fanart></fanart>
+<info>Filmes | Sons Para Dormir</info>
+</item>
+
+<item>
+<title>Pagar Agora Veja o Video</title>
+<thumbnail></thumbnail>
+<link>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/Apresenta%C3%A7%C3%A3o1.mp4</link>
+<fanart></fanart>
+<info>Filmes | Sons Para Dormir</info>
+</item>
