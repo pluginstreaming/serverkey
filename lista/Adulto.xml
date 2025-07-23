@@ -1,41 +1,62 @@
 <channels>
 <channel>
- <name>[COLOR white][B]FilmesAdultos+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Canais24horas+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Canais24horas+18.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]CanaisAdultos+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisAdultos+18.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]CanaisAdultos+18LGBT[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/CanaisAdultos+18LGBT.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]FilmesAdultos+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultos+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]FilmesAdultosGay+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosGay+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosGay+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]FilmesAdultosHentai+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosHentai+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosHentai+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]FilmesAdultosLesb+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosLesb+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosLesb+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]FilmesAdultosTrans+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]FilmesAdultosTrans+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/FilmesAdultosTrans+18.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]SeriesAdultas+18.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]SeriesAdultas+18[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/SeriesAdultas+18.xml</externallink>
  <fanart></fanart>

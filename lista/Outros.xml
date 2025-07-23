@@ -1,34 +1,34 @@
 <channels>
 <channel>
- <name>[COLOR white][B]AreadoCliente.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/AreadoCliente.xml</externallink>
- <fanart></fanart>
- <info>Listas iptv</info>
-</channel>
-<channel>
- <name>[COLOR white][B]Radios.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
- <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
- <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Radios.xml</externallink>
- <fanart></fanart>
- <info>Listas iptv</info>
-</channel>
-<channel>
- <name>[COLOR white][B]Shows.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]Shows[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/Shows.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]ShowsGospel.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]ShowsGospel[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/ShowsGospel.xml</externallink>
  <fanart></fanart>
  <info>Listas iptv</info>
 </channel>
 <channel>
- <name>[COLOR white][B]StandUpComedy.xml[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <name>[COLOR white][B]ShowsRockinRio2022[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/ShowsRockinRio2022.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]ShowsRockinRio2024[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
+ <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
+ <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/ShowsRockinRio2024.xml</externallink>
+ <fanart></fanart>
+ <info>Listas iptv</info>
+</channel>
+<channel>
+ <name>[COLOR white][B]StandUpComedy[/B][/COLOR][COLOR cyan][B] ||| Lista[/B][/COLOR][COLOR pink][B]IPTV |||[/B][/COLOR]</name>
  <thumbnail>https://raw.githubusercontent.com/kodishmediacenter/Rework-HidraMX/main/icones/icon-news/icons/tv.jpg</thumbnail>
  <externallink>https://raw.githubusercontent.com/kodishmediacenter/serverkey/refs/heads/main/lista/StandUpComedy.xml</externallink>
  <fanart></fanart>
