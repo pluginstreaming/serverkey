@@ -15,7 +15,7 @@
   <item>
     <title>Rede Familia FHD F4M3 tester</title>
     <thumbnail>http://beststorage4you.com:80/logoscanais/REDEF.png</thumbnail>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HDS&url=http://unividia.com:80/746147216xtvs/w884E6734a/264927</link>
+    <link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=CHANNEL_NAME&url=http://unividia.com:80/746147216xtvs/w884E6734a/264927</link>
     <fanart></fanart>
     <info>Canais |  Abertos</info>
   </item>
