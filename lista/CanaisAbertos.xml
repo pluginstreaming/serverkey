@@ -6,9 +6,9 @@
     <info>Canais |  Abertos</info>
   </item>
   <item>
-    <title>Rede Familia FHD F4M tester</title>
+    <title>Rede Familia FHD F4M2 tester</title>
     <thumbnail>http://beststorage4you.com:80/logoscanais/REDEF.png</thumbnail>
-    <link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&url=http://unividia.com:80/746147216xtvs/w884E6734a/264927</link>
+    <link>plugin://plugin.video.f4mTester/?streamtype=HLS&url=http://unividia.com:80/746147216xtvs/w884E6734a/264927</link>
     <fanart></fanart>
     <info>Canais |  Abertos</info>
   </item>
